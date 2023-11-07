@@ -1,0 +1,40 @@
+body {
+    background-color: #030303;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: -140px;
+}
+.profileimage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+    transform: translateY(15px);
+}
+.profile h4 {
+    color: white;
+    transform: translateY(15px);
+}
+.biodata {
+    background-color: #fff;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.row {
+    padding: 0px 20px;
+}
+.experience {
+    background-color: #fff;
+    padding-bottom: 100px;
+}
+.contact a {
+    font-size: medium;
+}
+.footer {
+    padding-top: 5px;
+}
